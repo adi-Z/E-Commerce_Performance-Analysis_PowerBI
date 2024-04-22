@@ -56,7 +56,12 @@ Based on our analysis, we recommend:
 
 ## Project Contributors
 
-*Names or identifiers of the contributors*
+Arit Akpan
+Eduardo Manotas
+Julia Saaverda
+Lillian Townley
+Esin Bilgin Savkli
+
 
 ## How to Use This Project
 
@@ -66,5 +71,5 @@ Based on our analysis, we recommend:
 
 ---
 
-We appreciate your interest in our project. For further information or inquiries, please contact us at [contact information].
+We appreciate your interest in our project.
 
