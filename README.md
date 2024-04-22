@@ -40,6 +40,8 @@ Our in-depth analysis revealed substantial opportunities for improving customer 
 
 ## Dataset Information
 
+Dataset is in both dataset_1.zip and dataset_2.zip
+
 - **MOCK_DATA.csv**: Synthetic dataset representing employee data.
 - **SupplyChainAnalysisDataset**: Analytical dataset for sales, orders, shipping, and inventory processes.
   - [Dataset Link](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
