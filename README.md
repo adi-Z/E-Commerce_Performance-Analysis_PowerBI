@@ -56,11 +56,11 @@ Based on our analysis, we recommend:
 
 ## Project Contributors
 
-Arit Akpan
-Eduardo Manotas
-Julia Saaverda
-Lillian Townley
-Esin Bilgin Savkli
+- Arit Akpan
+- Eduardo Manotas
+- Julia Saaverda
+- Lillian Townley
+- Esin Bilgin Savkli
 
 
 ## How to Use This Project
